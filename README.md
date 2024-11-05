@@ -66,8 +66,8 @@
 <h3 align="left">👉 Контакты</h3>
 <table>
   <tr>
-    <td><a rel="nofollow" target="_blank" href="#"><img alt="telegram" title="telegram" src="assets/tg.png"></a></td>
-    <td><a rel="nofollow" target="_blank" href="#"><img alt="vk" title="vk" src="assets/vk.png"></a></td> 
+    <td><a rel="nofollow" target="_blank" href="#"><img alt="telegram"  width="64px" height="64px" title="telegram" src="assets/tg.png"></a></td>
+    <td><a rel="nofollow" target="_blank" href="#"><img  width="64px" height="64px" alt="vk" title="vk" src="assets/vk.png"></a></td> 
   </tr>
 </table>
 
