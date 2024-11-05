@@ -4,7 +4,7 @@
 
 ###
 
-<h3 align="left">👉  Обо мне</h3>
+<h3 align="left">👉 Обо мне</h3>
 
 ###
 
@@ -13,7 +13,7 @@
 <p>👉 1 дашборд</p>
 <p>👉 1 генератор</p>
 
-<h3 align="left">👉 Технологии:</h3>
+<h3 align="left">👉 Технологии</h3>
 
 ###
 <table style="width: 100%; border: none;" cellspacing="0" cellpadding="0" border="0">
@@ -26,9 +26,14 @@
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuetify/vuetify-original.svg" width="64px" height="64px"/></td>
   </tr>
   <tr>
+      <td>Языки программирования</td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="64px" height="64px"/></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="64px" height="64px"/></td>
+  </tr>
+  <tr>
     <td>Стилизация</td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="64px" height="64px"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="64px" height="64px"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="64px" height="64px"/></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="64px" height="64px"/></td>
   </tr>
   <tr>
@@ -38,21 +43,16 @@
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original-wordmark.svg" width="64px" height="64px"/></td>
   </tr>
   <tr>
-    <td>Систеимы контроля версий</td>
+    <td>Разметка</td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="64px" height="64px"/></td>
   </tr>
   <tr>
-    <td>Систеимы контроля версий</td>
+    <td>Сборщики</td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gulp/gulp-plain.svg" width="64px" height="64px"/></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width="64px" height="64px"/></td>
   </tr>
   <tr>
-    <td>Систеимы контроля версий</td>
+    <td>Линтер</td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eslint/eslint-original-wordmark.svg" width="64px" height="64px"/></td>
-  </tr>
-    <tr>
-      <td>Систеимы контроля версий</td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="64px" height="64px"/></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="64px" height="64px"/></td>
   </tr>
 </table>
