@@ -18,7 +18,7 @@
 ###
 <table style="width: 100%; cellspacing="0" cellpadding="0">
   <tr>
-    <td>Frontend framework:</td> 
+    <td>Frontend framework</td> 
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="64px" height="64px" alt="vue.js" title="vue.js"/></td>
     <td></td> 
     <td></td> 
