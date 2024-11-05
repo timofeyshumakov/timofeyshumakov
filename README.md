@@ -16,7 +16,18 @@
 <h3 align="left">👉 Технологии:</h3>
 
 ###
-
+<table style="width: 100%; border: none;" cellspacing="0" cellpadding="0" border="0">
+  <tr>
+    <td>1</td>
+    <td rowspan="3">2</td>
+  </tr>
+  <tr>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>4</td>
+  </tr>
+</table>
 <div align="left">
     <p style="vertical-align: middle;">Frontend framework: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="64px" height="64px"/></p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuetify/vuetify-original.svg" width="64px" height="64px"/>
