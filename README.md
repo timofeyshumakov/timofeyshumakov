@@ -18,18 +18,20 @@
 ###
 <table style="width: 100%; border: none;" cellspacing="0" cellpadding="0" border="0">
   <tr>
-    <td>1</td>
-    <td rowspan="3">2</td>
+    <td>Frontend framework:</td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="64px" height="64px"/></td>
   </tr>
   <tr>
+    <td>3</td>
     <td>3</td>
   </tr>
   <tr>
     <td>4</td>
+    <td>3</td>
   </tr>
 </table>
 <div align="left">
-    <p style="vertical-align: middle;">Frontend framework: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="64px" height="64px"/></p>
+    <p style="vertical-align: middle;"> </p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuetify/vuetify-original.svg" width="64px" height="64px"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width="64px" height="64px"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="64px" height="64px"/>
