@@ -33,7 +33,7 @@
   <tr>
     <td>Стилизация</td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="64px" height="64px" alt="css" title="css"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="64px" height="64px" alt="tailwindcss" title="tailwindcss"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="64px" height="64px" alt="tailwind" title="tailwind"/></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="64px" height="64px" alt="sass" title="sass"/></td>
   </tr>
   <tr>
