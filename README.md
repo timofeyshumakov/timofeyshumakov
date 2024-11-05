@@ -66,8 +66,10 @@
 <h3 align="left">👉 Контакты</h3>
 <table>
   <tr>
-    <td><a rel="nofollow" target="_blank" href="#"><img alt="telegram"  width="64px" height="64px" title="telegram" src="assets/tg.png"></a></td>
-    <td><a rel="nofollow" target="_blank" href="#"><img  width="64px" height="64px" alt="vk" title="vk" src="assets/vk.png"></a></td> 
+    <td><a rel="nofollow" target="_blank" href="https://t.me/timofey_bitrix24"><img alt="telegram"  width="64px" height="64px" title="telegram" src="assets/tg.png"></a></td>
+    <td><a rel="nofollow" target="_blank" href="https://vk.com/timofey_bitrix24"><img  width="64px" height="64px" alt="vk" title="vk" src="assets/vk.png"></a></td>
+    <td><a rel="nofollow" target="_blank" href="mailto:timofey_bitrix24@mail.ru"><img  width="64px" height="64px" alt="mail.ru" title="mail.ru" src="assets/mail.png"></a></td>
+    <td><a rel="nofollow" target="_blank" href="mailto:timofeybitrix24@gmail.com"><img  width="64px" height="64px" alt="gmail.com" title="gmail.com" src="assets/gmail.png"></a></td>
   </tr>
 </table>
 
