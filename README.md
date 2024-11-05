@@ -66,3 +66,6 @@
     <td></td> 
   </tr>
 </table>
+
+<h3 align="left">👉 Контакты</h3>
+<div><a rel="nofollow" target="_blank" href="#"><img alt="" src="/img/ico/ico_vk.png"></a></div>
