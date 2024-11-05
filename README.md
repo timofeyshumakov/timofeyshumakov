@@ -64,4 +64,10 @@
 </table>
 
 <h3 align="left">👉 Контакты</h3>
-<div><a rel="nofollow" target="_blank" href="#"><img alt="" src="assets/vk.png"></a></div>
+<table>
+  <tr>
+    <td><a rel="nofollow" target="_blank" href="#"><img alt="telegram" title="telegram" src="assets/tg.png"></a></td>
+    <td><a rel="nofollow" target="_blank" href="#"><img alt="vk" title="vk" src="assets/vk.png"></a></td> 
+  </tr>
+</table>
+
